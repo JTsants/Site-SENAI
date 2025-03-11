@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(58, 50, 179)
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(52, 214, 11);
+    text-decoration: underline;
+    margin-left: ;
+}
+
+#passo{
+    margin-left: 34px;
+    color: rgb(214, 4, 4);
+}
+
+#imagem{
+  width: 10%;
+  height: 10%;
+  border-radius: 15px;
+}
+
+
+
+
